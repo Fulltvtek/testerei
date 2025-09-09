@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,Estrela da casa
-https://image-storage-51.imgcontent.xyz/live/estreladacasaespacocorpo/index.m3u8
-#EXTINF:0,ESPN
-https://linear-ftc-sa-east-1.media.dssott.com/dvt2=exp=1756389631~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fef857a31-bd76-436b-b327-8889d90e6e5c-1755843550405%2F~psid=00000000-0000-0000-0000-000000000000~aid=e63635bb-9e95-4147-9958-a457795cdc5c~did=d4b778a5-efcc-40b1-8976-d1112b6ff96d~country=BR~kid=k02~hmac=544488912a59757509ba9271a697dfab9fcd6d7fa315db996beca09c9303f936/gru1/va01/disneyplus/channel/ef857a31-bd76-436b-b327-8889d90e6e5c-1755843550405/cmaf-cenc-ctr-3500K/3500_slide.m3u8
-#EXTINF:0,Premiere
-https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:0,Premiere 1
+https://agropesca.live/live/premiereclubes/index.m3u8
+#EXTINF:0,Premiere 2
+https://agropesca.live/live/premiere2/index.m3u8
+#EXTINF:0,Premiere 3
+https://agropesca.live/live/premiere3/index.m3u8
